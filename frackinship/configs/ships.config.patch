@@ -1,0 +1,50 @@
+[
+  {
+    "op": "add",
+    "path": "/fu_byosalliance",
+    "value": {
+      "ship": "fu_byosalliance",
+      "name": "Alliance BYOS Ship",
+      "offset": [-84,34],
+      "racialiserOverride": "aegi",
+      "icon": "/interface/title/aegimale.png",
+      "previewImage": "/interface/ai/shippreviews/fu_byosalliance.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fu_byostrink",
+    "value": {
+      "ship": "fu_byostrink",
+      "name": "Circuit BYOS Ship",
+      "offset": [-80,8],
+      "racialiserOverride": "trink",
+      "icon": "/interface/title/trinkmale.png",
+      "previewImage": "/interface/ai/shippreviews/fu_byostrink.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fu_byosavikan",
+    "value": {
+      "ship": "fu_byosavikan",
+      "name": "Nomada BYOS Ship",
+      "offset": [-51,26],
+      "racialiserOverride": "avikan",
+      "icon": "/interface/title/avikanmale.png",
+      "previewImage": "/interface/ai/shippreviews/fu_byosavikan.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/fu_byosakkimari",
+    "value": {
+      "ship": "fu_byosakkimari",
+      "name": "Scrap Raider BYOS Ship",
+      "offset": [-86,-4],
+      "racialiserOverride": "akkimari",
+      "icon": "/interface/title/akkimarimale.png",
+      "previewImage": "/interface/ai/shippreviews/fu_byosakkimari.png"
+    }
+  }
+]

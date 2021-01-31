@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "fu_byosalliance",
+    "species" : "aegi",
+    "rules" : [
+    ],
+    "anchor" : [ "fu_byosalliance" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "fu_byosalliance",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "fu_byosalliance.json" ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "fu_byostrink",
+    "species" : "trink",
+    "rules" : [
+    ],
+    "anchor" : [ "fu_byostrink" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "fu_byostrink",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "fu_byostrink.json" ]
+    }
+  ]
+}

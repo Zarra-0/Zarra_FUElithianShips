@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "fu_byosavikan",
+    "species" : "avikan",
+    "rules" : [
+    ],
+    "anchor" : [ "fu_byosavikan" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "fu_byosavikan",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "fu_byosavikan.json" ]
+    }
+  ]
+}
