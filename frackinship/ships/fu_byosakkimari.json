@@ -891,19 +891,19 @@
         }, 
         {
          "firstgid":37,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":146,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-akkimari.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-akkimari.json"
         }, 
         {
          "firstgid":201,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/thealiquids.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/thealiquids.json"
         }, 
         {
          "firstgid":209,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-avikan.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-avikan.json"
         }],
  "tilewidth":8,
  "type":"map",

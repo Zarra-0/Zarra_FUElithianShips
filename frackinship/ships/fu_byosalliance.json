@@ -1189,15 +1189,15 @@
         }, 
         {
          "firstgid":1216,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":1325,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-alliance.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-alliance.json"
         }, 
         {
          "firstgid":1510,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-space.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-space.json"
         }],
  "tilewidth":8,
  "type":"map",

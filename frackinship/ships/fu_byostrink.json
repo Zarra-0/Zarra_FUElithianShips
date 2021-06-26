@@ -999,15 +999,15 @@
         }, 
         {
          "firstgid":990,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-trink.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-trink.json"
         }, 
         {
          "firstgid":1037,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":1146,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod-master\/tilesets\/avikan-custom\/theaobjects-alliance.json"
+         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-alliance.json"
         }],
  "tilewidth":8,
  "type":"map",
