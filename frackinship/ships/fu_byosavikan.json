@@ -1,12 +1,5 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"..\/..\/..\/FrackinUniverse\/frackinship\/ships"
-        }
-    },
  "height":50,
  "infinite":false,
  "layers":[
@@ -941,11 +934,11 @@
         }, 
         {
          "firstgid":1142,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":1251,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-avikan.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theaobjects-avikan.json"
         }, 
         {
          "firstgid":1484,

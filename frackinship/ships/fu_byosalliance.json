@@ -1,12 +1,5 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":49,
  "infinite":false,
  "layers":[
@@ -1160,7 +1153,7 @@
  "nextobjectid":126,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":8,
  "tilesets":[
         {
@@ -1189,15 +1182,15 @@
         }, 
         {
          "firstgid":1216,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":1325,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-alliance.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theaobjects-alliance.json"
         }, 
         {
          "firstgid":1510,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-space.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theaobjects-space.json"
         }],
  "tilewidth":8,
  "type":"map",

@@ -1,12 +1,5 @@
 { "backgroundcolor":"#000000",
  "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"..\/..\/..\/FrackinUniverse\/frackinship\/ships"
-        }
-    },
  "height":44,
  "infinite":false,
  "layers":[
@@ -878,7 +871,7 @@
  "nextobjectid":183,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.5.0",
  "tileheight":8,
  "tilesets":[
         {
@@ -891,19 +884,19 @@
         }, 
         {
          "firstgid":37,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theamaterials.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theamaterials.json"
         }, 
         {
          "firstgid":146,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-akkimari.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theaobjects-akkimari.json"
         }, 
         {
          "firstgid":201,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/thealiquids.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/thealiquids.json"
         }, 
         {
          "firstgid":209,
-         "source":"..\/..\/..\/ElithianAllianceStarboundMod\/tilesets\/avikan-custom\/theaobjects-avikan.json"
+         "source":"..\/..\/..\/Elithian_Races_Mod\/tilesets\/avikan-custom\/theaobjects-avikan.json"
         }],
  "tilewidth":8,
  "type":"map",
