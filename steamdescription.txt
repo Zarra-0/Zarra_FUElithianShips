@@ -1,6 +1,4 @@
-{
-  "author" : "Zarra",
-  "description" : "[b][url=discord.gg/eTp4ewVHFA] FU Discord [/url][/b]
+[b][url=discord.gg/eTp4ewVHFA] FU Discord [/url][/b]
 
 [b][url=https://frackinuniverse.miraheze.org/wiki/Main_Page] FU Wiki [/url][/b]
 
@@ -51,13 +49,4 @@ This mod is very lightweight. The only changes it makes to other files is patchi
 
 1: Mods incompatible with Frackin' Universe. See [b][url=https://frackinuniverse.miraheze.org/wiki/Incompatible] this list [/url][/b].
 
-2: Very old and outdated mods, which break everything they come into contact with. If a mod hasn't been updated since Starbound 1.4.4 came out (August 2019) it's probably at least somewhat broken, and mods that attempt to change how FU works (beyond compatibility patches) are usually outdated within a month or so.",
-  "friendlyName" : "Frackin' Universe - Elithian BYOS Ships",
-  "includes" : [],
-  "link" : "steam://url/CommunityFilePage/2375270402",
-  "name" : "Zarra_FUElithianShips",
-  "requires" : ["FrackinUniverse", "Elithian_Races_Mod"],
-  "steamContentId" : "2375270402",
-  "tags" : "Ships",
-  "version" : "1.5"
-}
+2: Very old and outdated mods, which break everything they come into contact with. If a mod hasn't been updated since Starbound 1.4.4 came out (August 2019) it's probably at least somewhat broken, and mods that attempt to change how FU works (beyond compatibility patches) are usually outdated within a month or so.
